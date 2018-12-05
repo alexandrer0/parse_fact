@@ -12,4 +12,34 @@
   <EGO_STATUS genid="500587" rge="5437" is_block_power_on_off="1" />
   <EGO_STATUS genid="500588" rge="5437" is_block_power_on_off="1" />
 </EGO_STATUSES>
+<EGO_STATUSES targetdate="01.10.2018" hour="10">
+  <EGO_STATUS genid="500587" rge="5437" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500588" rge="5437" is_block_power_on_off="1" />
+</EGO_STATUSES>
+<EGO_STATUSES targetdate="01.10.2018" hour="13">
+  <EGO_STATUS genid="500373" rge="5025" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500369" rge="5385" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500586" rge="5437" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500587" rge="5437" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500588" rge="5437" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500446" rge="5452" is_block_power_on_off="1" />
+</EGO_STATUSES>
+<EGO_STATUSES targetdate="01.10.2018" hour="16">
+  <EGO_STATUS genid="500373" rge="5025" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500350" rge="5384" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500369" rge="5385" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500586" rge="5437" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500587" rge="5437" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500588" rge="5437" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500446" rge="5452" is_block_power_on_off="1" />
+</EGO_STATUSES>
+<EGO_STATUSES targetdate="01.10.2018" hour="17">
+  <EGO_STATUS genid="500373" rge="5025" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500350" rge="5384" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500369" rge="5385" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500586" rge="5437" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500587" rge="5437" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500588" rge="5437" is_block_power_on_off="1" />
+  <EGO_STATUS genid="500446" rge="5452" is_block_power_on_off="1" />
+</EGO_STATUSES>
 </BALANCE_EGO_STATUS>
